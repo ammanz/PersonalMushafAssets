@@ -1,0 +1,13 @@
+.left {
+  float: left;
+  width: 600px
+}
+
+.right {
+  float: right;
+  margin-left: 100px;
+}
+
+.entire-thing {
+  width: 1200px;
+}
